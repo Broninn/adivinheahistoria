@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "descricao": "Uma noite sombria, um grupo de adolescentes decidiu explorar um antigo cemitério abandonado na periferia da cidade. Entre as lápides quebradas e a vegetação densa, encontraram uma sepultura estranhamente intocada, com inscrições ilegíveis. Curiosos, decidiram abri-la, liberando uma presença maligna que estava adormecida há séculos. Agora, eles estão amaldiçoados e perseguidos por uma entidade sobrenatural. A única maneira de se livrarem da maldição é descobrir quem era o ocupante original da sepultura e por que foi enterrado de forma tão peculiar.",
+        "resposta": "A sepultura pertencia a um feiticeiro poderoso que, antes de sua morte, selou um demônio dentro dela para evitar que causasse estragos no mundo dos vivos. A inscrição ilegível na lápide era, na verdade, uma antiga linguagem mágica usada para conter o poder do demônio. Ao abrirem a sepultura, os adolescentes liberaram o demônio, e agora precisam recitar a mesma linguagem mágica para selá-lo novamente.",
+        "dicas": {
+            "dica1": "Ao pesquisar sobre a história local, os adolescentes encontram um diário antigo que menciona um pacto entre o feiticeiro e o demônio. As últimas páginas do diário estão escritas na mesma linguagem mágica usada na sepultura.",
+            "dica2": "A entidade sobrenatural começa a se manifestar de maneiras sutis e assustadoras, revelando pistas sobre sua origem. Os adolescentes notam padrões nos eventos paranormais, indicando a presença de uma inteligência por trás das assombrações.",
+            "dica3": "Durante uma pesquisa no cemitério, um dos adolescentes encontra um talismã que pertencia ao feiticeiro. O talismã contém símbolos que correspondem à linguagem mágica, sugerindo que ele foi usado como um objeto de proteção contra o demônio. Ao estudar o talismã, eles descobrem parte da fórmula necessária para selar o demônio novamente."
+        }
+    },  
+    {
+        "id": 2,
+        "descricao": "Uma família mudou-se para uma antiga casa isolada nos bosques. No porão da casa, encontraram um jogo de tabuleiro antigo chamado 'O Jogo das Sombras'. Ao começarem a jogar, eventos estranhos começam a ocorrer. Eles percebem que as ações no jogo têm um reflexo sinistro na vida real. Agora, presos em um ciclo sobrenatural, eles precisam descobrir como vencer o jogo para escapar antes que a escuridão os consuma.",
+        "resposta": "O jogo de tabuleiro 'O Jogo das Sombras' foi amaldiçoado por um antigo praticante de magia negra. Para vencê-lo, os jogadores precisam encontrar o amuleto perdido que está escondido em um dos compartimentos do tabuleiro. O amuleto é a chave para quebrar a ligação entre o mundo do jogo e o mundo real, liberando-os da maldição.",
+        "dicas": {
+            "dica1": "As pistas sobre a localização do amuleto estão escondidas nas cartas do jogo. Os jogadores devem analisar cuidadosamente as cartas e procurar por padrões ou símbolos que possam indicar a posição do amuleto.",
+            "dica2": "O antigo praticante de magia negra deixou uma mensagem criptografada nas regras do jogo. Decifrar essa mensagem revelará informações cruciais sobre a natureza da maldição e a história por trás do amuleto.",
+            "dica3": "Durante o jogo, certos movimentos estratégicos desbloqueiam vislumbres do mundo real. Os jogadores devem prestar atenção a esses vislumbres, pois podem revelar pistas visuais sobre a localização do amuleto."
+        }
+    },
+    {
+        "id": 3,
+        "descricao": "Uma pequena cidade, conhecida por seus campos de girassóis, é assolada por uma série de assassinatos misteriosos. Em cada cena do crime, uma única pétala de girassol é encontrada ao lado dos corpos das vítimas. A polícia está perplexa e aterrorizada. O detetive Alex Green é chamado para investigar e, ao examinar as evidências, percebe um padrão sinistro. Ele deve desvendar o mistério por trás das pétalas de girassol antes que o assassino ataque novamente.",
+        "resposta": "O assassino é uma pessoa obcecada por um trágico evento que aconteceu no campo de girassóis há anos. A pétala de girassol representa sua busca por vingança contra aqueles que ele culpa pelo ocorrido. O detetive Alex Green deve descobrir a identidade das pessoas envolvidas no evento e impedi-lo de continuar sua série de assassinatos.",
+        "dicas": {
+            "dica1": "O detetive Green encontra um diário antigo que descreve o trágico evento nos campos de girassóis. O diário menciona nomes e detalhes que podem ser fundamentais para identificar o assassino.",
+            "dica2": "As pétalas de girassol têm símbolos gravados nelas que representam as pessoas envolvidas no evento. O detetive deve decifrar esses símbolos para identificar as vítimas do assassino.",
+            "dica3": "O assassino deixa mensagens criptografadas nas cenas do crime, indicando seu próximo alvo. O detetive deve decifrar essas mensagens para antecipar os movimentos do assassino e evitar mais mortes."
+        }
+    }
+    
+    
+]
